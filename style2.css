@@ -1,0 +1,19 @@
+h1 {color: #FA8258; font-size: 150% }
+
+
+body { background: lightyellow; 
+		color: green;
+		font-size: 14pt; font-family:'Lobster', cursive; }
+		
+		nav li { display: inline-block; 
+		  	border: 1px solid black;
+ 			background: white;
+			padding: 10px;}
+			
+
+		a { color: darked; 
+		text-decoration: none} 
+
+		a:hover { color:light blue; text-decoration: underline }
+	
+	<link href="style2.css" rel="stylesheet">
